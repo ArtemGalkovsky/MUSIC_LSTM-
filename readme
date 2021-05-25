@@ -1,8 +1,9 @@
-How to use:
+  How to use:
   1) install Python
-  2) start setup.py (wait until PASS appears)
-  3) start Server.py 
-  4) Open http://127.0.0.1:1000
+	2) install modules (pip3 install -r requirements.txt)
+  3) start setup.py (wait until PASS appears)
+  4) start Server.py 
+  5) Open http://127.0.0.1:1000
   
 
 Directories:
