@@ -882,3 +882,5 @@ def setup():
         input("Enter Something To Close.")
     else:
         print("No Setup.")
+
+setup()
